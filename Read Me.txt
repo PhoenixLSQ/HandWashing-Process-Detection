@@ -1,0 +1,20 @@
+Add or modification:
+
+Comp_wash
+Comp_foam
+Comp_foam_gsni
+Comp_effluent
+Comp_effluent_edge
+ROI_yy3-4
+ROI_yy5
+
+
+
+
+
+
+Delete:
+
+Judge_foam
+Comp_foam_new
+water_judge
